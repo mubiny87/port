@@ -1,0 +1,32 @@
+h1
+{color:gold;
+    height: fit-content;
+}
+body
+{font: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 2cm;
+    line-height:2;
+background-color: rgb(22, 75, 72);
+}
+
+.section
+{
+color: rgb(0, 0, 0);
+    background-color: skyblue;
+    height: 10;
+}
+h2
+{
+    color:wheat;
+}
+.nig
+{
+    height: 10;
+    line-height: 2;
+    margin: 2cm;
+    background-color: burlywood;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
